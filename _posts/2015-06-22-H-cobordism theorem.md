@@ -5,21 +5,18 @@ comments: True
 ---
 
 
-
-Ideas involved in the proof of h-cobordism theorem
-==========================================
 -----
 
-> **H-Cobordism Theorem.**
-> Suppose $W^{n+1}$ is a smooth compact oriented cobordism between $V^n_1$ and $V^n_2$. If
+**H-Cobordism Theorem.**
+Suppose $W^{n+1}$ is a smooth compact oriented cobordism between $V^n_1$ and $V^n_2$. If
 
-> * $n \ge 5$
+* $n \ge 5$
 
-> * $\pi_1(W^{n+1})=\pi_1(V_1^{n})=\pi_1(V_2^{n})=1$
+* $\pi_1(W^{n+1})=\pi_1(V_1^{n})=\pi_1(V_2^{n})=1$
 
-> * $H_*(W,V_1)=0$ (i.e. our cobordism is h-cobordism, i.e. $V_i \hookrightarrow W$ is homotopy equivalence)
+* $H_*(W,V_1)=0$ (i.e. our cobordism is h-cobordism, i.e. $V_i \hookrightarrow W$ is homotopy equivalence)
 
-> then $W^{n+1}$ is a product cobordism.
+then $W^{n+1}$ is a product cobordism.
 
 -----
 
