@@ -1,2 +1,5 @@
 _site
 drafts
+old_blog_via_jekkyl
+.DS_Store
+.sass_cache
