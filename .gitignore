@@ -6,3 +6,10 @@ old_blog_via_jekkyl
 homepages
 Yoichi_index.html
 Asilya_index.html
+*.aux
+*.tex
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.gz
